@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/select_wine_where_original_country_id"
+        android:title="WineByCountry"
+        />
+
+    <item
+        android:id="@+id/select_wine_alcolhol_content_where_original_country_id"
+        android:title="WineByAlcoholContent"
+        />
+</menu>
